@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @texasmami
-- 👀 I’m interested in ... learning to code for a complete beginner
-- 🌱 I’m currently learning ... foundations on the odin project
-- 💞️ I’m looking to collaborate on ... still figuring that out. just creating this to have it in the meantime 
-- 📫 How to reach me ... on here!
+- 👋 Hi, I’m @texasmami (my friends and associates call me Bailey)
+- 👀 I’m interested in ... building cool sites!
+- 🌱 I’m currently learning ... .Net and C#
+- 💞️ I’m looking to collaborate on ... anything you've got going on! I'm working on diversifying my portfolio right now.
+- 📫 How to reach me ... mcdonald.bailey@gmail.com
 
 <!---
 texasmami/texasmami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
